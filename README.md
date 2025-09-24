@@ -104,9 +104,22 @@ The table below summarizes the performance of different regression models on the
 
 ## ▶️ How to Run
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/MbofholowoT/Medical-Expenses-Prediction.git
-   cd Medical-Expenses-Prediction
+To run this project, you only need the dataset and the R script provided in this repository.
+
+## Project Files Required
+
+- `insurance.csv` (dataset)  
+- `Medical_Expenses_Regression.R` (R script)
+
+## Steps
+
+1. Make sure you have R installed on your system.  
+2. Open the `Medical_Expenses_Regression.R` script in RStudio or any R IDE.  
+3. Ensure the CSV file `insurance.csv` is in the same working directory as the R script, or update the path in the script accordingly.  
+4. Run the script line by line or source the entire script to execute the analysis.  
+5. The script will produce model results, performance metrics, and plots.  
+
+No additional files are required to reproduce the analysis.  
+
 
 
