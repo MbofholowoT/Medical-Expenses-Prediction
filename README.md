@@ -15,7 +15,7 @@ We apply **Ordinary Least Squares (OLS)**, **Ridge**, **Lasso**, and **Elastic N
 6. [Results](#-results)  
 7. [How to Run](#-how-to-run)  
 8. [License](#-license)  
-9. [Acknowledgments](#-acknowledgments)  
+
 
 ---
 
