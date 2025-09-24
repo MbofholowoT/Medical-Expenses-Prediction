@@ -1,8 +1,0 @@
-# Plots Folder
-
-This folder contains visualizations from the Medical Expenses Prediction project:
-- Histogram of expenses
-- Histogram of log-transformed expenses
-- Residuals vs Fitted plot
-- QQ plot of residuals
-- Model performance bar chart
