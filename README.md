@@ -55,14 +55,20 @@ The following models are applied:
 ---
 
 ## 📈 Visualizations
+### Target Distribution
+- Histogram of expenses:
+  ![Histogram of Expenses](Histogram(expenses).png)
 
-Generated plots are stored in the **`plots/`** folder:
+- Histogram of log-transformed expenses:
+  ![Histogram of Log Expenses](Histogram(log expenses).png)
 
-1. **expenses_histogram.png** → Histogram of original expenses  
-2. **log_expenses_histogram.png** → Histogram of log-transformed expenses  
-3. **residuals_vs_fitted.png** → Residuals vs Fitted values (OLS diagnostic)  
-4. **qq_residuals.png** → QQ Plot of residuals (OLS diagnostic)  
-5. **model_comparison.png** → Bar chart comparing model performance  
+### Residual Analysis
+- Residuals vs Fitted and QQ plot:
+  ![Residuals and QQ Plot](Residuals and qq plot.png)
+
+### Model Performance
+- Comparison of performance metrics (MAE, RMSE, R2) across models:
+  ![Model Performance Metrics](Model Performance Metrics.png)
 
 ---
 
